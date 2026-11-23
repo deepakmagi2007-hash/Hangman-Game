@@ -99,5 +99,5 @@
             7.A leaderboard to maintain the highest scores.
     
 14. Conclusion:
-       The Hangman Game is a simple, interactive, and beginner-friendly project developed using Python. It demonstrates the practical implementation of fundamental programming concepts such as variables, lists, strings, loops, conditional statements, functions, and random word selection.Through this project, students can understand how Python programming concepts work together to develop a real-time application. The game also encourages logical thinking, improves vocabulary, and provides an enjoyable learning experience.
-Overall, the Hangman Game is a useful mini-project for beginners to improve their Python programming knowledge and develop confidence in application development.
+       The Hangman Game is a simple, interactive, and beginner-friendly project developed using Python. It demonstrates the practical       implementation of fundamental programming concepts such as variables, lists, strings, loops, conditional statements, functions, and     random word selection.Through this project, students can understand how Python programming concepts work together to develop a          real-   time application. The game also encourages logical thinking, improves vocabulary, and provides an enjoyable learning            experience.
+    Overall, the Hangman Game is a useful mini-project for beginners to improve their Python programming knowledge and develop              confidence in application development.
